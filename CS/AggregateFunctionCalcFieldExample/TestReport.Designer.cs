@@ -356,7 +356,7 @@ namespace AggregateFunctionCalcFieldExample
             this.GroupFooter1.Controls.AddRange(new DevExpress.XtraReports.UI.XRControl[] {
             this.xrLabel2});
             this.GroupFooter1.GroupUnion = DevExpress.XtraReports.UI.GroupFooterUnion.WithLastDetail;
-            this.GroupFooter1.HeightF = 45.83334F;
+            this.GroupFooter1.HeightF = 45.83335F;
             this.GroupFooter1.Name = "GroupFooter1";
             this.GroupFooter1.StylePriority.UseBorders = false;
             // 
@@ -433,8 +433,8 @@ namespace AggregateFunctionCalcFieldExample
             // calcTotalRevenueByCategory
             // 
             this.calcTotalRevenueByCategory.DataMember = "Products";
-            this.calcTotalRevenueByCategory.Expression = "[][[CategoryID] == [^.CategoryID]].Sum([calcRevenue])";
-            this.calcTotalRevenueByCategory.FieldType = DevExpress.XtraReports.UI.FieldType.Int32;
+            this.calcTotalRevenueByCategory.Expression = "[][[CategoryID] == [^.CategoryID]].Sum([calcRevenue])\n";
+            this.calcTotalRevenueByCategory.FieldType = DevExpress.XtraReports.UI.FieldType.Double;
             this.calcTotalRevenueByCategory.Name = "calcTotalRevenueByCategory";
             // 
             // calcRevenuePercentage
