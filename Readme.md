@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128603847/2022.2)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T317187)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 # Aggregate Functions in Calculated Fields - Usage Example
 
 This example shows a report that uses aggregate functions in calculated fields. For each product, the report calculates the percentage of total revenue computed for all products that belong to a certain category. The report also counts the number of products in a category that are not discontinued and have revenue greater than $500.   
