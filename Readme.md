@@ -25,8 +25,8 @@ Expressions used in this example are shown in the picture below:
 
 ## Documentation
 
-- [Use Calculated Fields](http://docs.devexpress.devx/XtraReports/4801/detailed-guide-to-devexpress-reporting/shape-report-data/use-calculated-fields)
-- [Use Expressions](http://docs.devexpress.devx/XtraReports/120091/detailed-guide-to-devexpress-reporting/use-expressions)
+- [Use Calculated Fields](http://docs.devexpress.com/XtraReports/4801/detailed-guide-to-devexpress-reporting/shape-report-data/use-calculated-fields)
+- [Use Expressions](http://docs.devexpress.com/XtraReports/120091/detailed-guide-to-devexpress-reporting/use-expressions)
 - [Aggregate Enum](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.Aggregate)
 
 ## More Examples
