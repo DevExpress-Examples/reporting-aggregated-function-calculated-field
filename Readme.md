@@ -34,7 +34,7 @@ Expressions used in this example are shown in the picture below:
 
 - [How to create a calculated field at runtime](https://github.com/DevExpress-Examples/Reporting_how-to-create-a-calculated-field-at-runtime-e1489)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-aggregated-function-calculated-field&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-aggregated-function-calculated-field&~~~was_helpful=no)
 
